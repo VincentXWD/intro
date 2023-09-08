@@ -1,6 +1,6 @@
 # jemdoc: nofooter
 # jemdoc: addcss{css/jemdoc.css}
-# jemdoc: addcss{css/jemdoc_yuzhe.css}
+# jemdoc: addcss{css/jemdoc_xwd.css}
 # jemdoc: addcss{ccs/myMiddle.css}
 # jemdoc: title{Wendong XU -- EEE HKU}
 
@@ -27,6 +27,9 @@ Before starting my PhD student career, I was a senior software engineer at [http
 ~~~
 - Looking forward to any good news.
 ~~~
+
+== Contect
+- Email: kirai.wendong [at] gmail.com
 
 
 == Research Interest
@@ -61,6 +64,9 @@ Before starting my PhD student career, I was a senior software engineer at [http
 
 *[https://www.google.com/ Google]* Beijing, China, Mar. 2019 - Jul. 2019
 - Software Engineer Intern in ML, Mobile-first Indexing
+
+* [https://keg.cs.tsinghua.edu.cn/ Tsinghua University]* Beijing, China, Oct. 2016 - Mar. 2017
+- Visiting Student, Knowledge Engineering Group(KEG)
 
 == Selected Awards
 ~~~
