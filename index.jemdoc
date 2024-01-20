@@ -19,7 +19,7 @@
 /{{<p align="right"> Algorithm & Architecture & AI </p>}}/
 
 == Biography
-I am a first-year Ph.D. Student at [https://www.eee.hku.hk/ the Department of Electrical and Electronic Engineering], [http://www.hku.hk/ the University of Hong Kong (HKU)], supervised by [https://www.eee.hku.hk/~nwong/ Prof. Ngai WONG] and [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU] since 2023 Fall. I received M.S. in Computing Technology from ICT.CAS in 2021 and B.S. in Computer Science and Technology from BISTU in 2018.\n
+I am a first-year Ph.D. Student at [https://www.eee.hku.hk/ the Department of Electrical and Electronic Engineering], [http://www.hku.hk/ the University of Hong Kong (HKU)], supervised by [https://www.eee.hku.hk/~nwong/ Prof. Ngai WONG] and [http://www.cse.cuhk.edu.hk/~byu/ Prof. Bei YU]. I received M.S. in Computing Technology from ICT.CAS and B.S. in Computer Science and Technology from BISTU.\n
 My research interests include HPC especially in parallel computing and deep learning compiler. I am also interested in distributed systems and applied artificial intelligence.\n
 Before starting my PhD student career, I was a senior software engineer at [https://www.baidu.com/ Baidu]. I was dedicated to the design and development of sharding management system and succinct data structure. I used to work on computer vision during my masters.\n
 
@@ -51,30 +51,30 @@ Before starting my PhD student career, I was a senior software engineer at [http
 - \[P1\] *Xu W*, Liang J, et al. "Numerical storage method, Numerical query method, equipment", CN114817651B, 2022
 
 == Education
-- Ph.D. Student, Department of Electrical and Electronic Engineering, The University of Hong Kong (HKU), Oct\/2023 - Now
-- M.Eng., Institute of Computing Technology(ICT), University of Chinese Academy of Sciences (UCAS), Sept\/2018 - Jun\/2021
-- B.Eng., School of Computer, Beijing Information Science and Technology University (BISTU), Sept\/2014 - Jun\/2018
+- Ph.D. Student, Department of Electrical and Electronic Engineering, The University of Hong Kong (HKU)
+- M.Eng., Institute of Computing Technology(ICT), University of Chinese Academy of Sciences (UCAS)
+- B.Eng., School of Computer, Beijing Information Science and Technology University (BISTU)
 
 == Experiences
-*[https://www.baidu.com/ Baidu]* Beijing, China, Dec. 2020 - Aug. 2023
+*[https://www.baidu.com/ Baidu]* Beijing, China
 - Senior Software Engineer, Core Search Architecture
 
-*[https://www.bytedance.com/ Bytedance]* Beijing, China, Mar. 2021 - Jul. 2021
+*[https://www.bytedance.com/ Bytedance]* Beijing, China
 - Architect Intern, Xiaohe
 
-*[https://www.megvii.com/ Megvii]* Beijing, China, Sept. 2019 - Feb. 2020
+*[https://www.megvii.com/ Megvii]* Beijing, China
 - Research Intern, Base Model
 
-*[https://www.google.com/ Google]* Beijing, China, Mar. 2019 - Jul. 2019
+*[https://www.google.com/ Google]* Beijing, China
 - Software Engineer Intern in ML, Mobile-first Indexing
 
-* [https://keg.cs.tsinghua.edu.cn/ Tsinghua University]* Beijing, China, Oct. 2016 - Mar. 2017
+* [https://keg.cs.tsinghua.edu.cn/ Tsinghua University]* Beijing, China
 - Visiting Student, Knowledge Engineering Group(KEG)
 
 == Selected Awards
 ~~~
 {}{table}{noborder}
- Full Postgraduate Studentship,     |The University of Hong Kong,     |2023-2027||
- Postgraduate Studentship,     |University of Chinese Academy of Sciences,     |2018-2021||
- Bronze Medals,                | ACM/ICPC Xi'An, Beijing Regional,             |2017||
+ Full Postgraduate Studentship,     |The University of Hong Kong|
+ Postgraduate Studentship,     |University of Chinese Academy of Sciences|
+ Bronze Medals,                | ACM/ICPC Xi'An, Beijing Regional|
 ~~~
